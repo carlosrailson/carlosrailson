@@ -2,7 +2,7 @@
 
 <div>
   <p>
-    Estou cursando Análise e desenvolvimento de sistemas e, a quase um ano, venho estudando desenvolvimento web de modo autodidata, com HTML, CSS, JavaScript e nodeJS. Também estou começando a estudar React.
+    Atualmente estou cursando Análise e desenvolvimento de sistemas e, a quase um ano, venho estudando desenvolvimento web de modo autodidata, com HTML, CSS, JavaScript e nodeJS. Também estou começando a estudar React.
   </p>
 </div>
 
