@@ -1,10 +1,12 @@
 ## Olá! Eu sou o Carlos Railson
 
 <div>
-  <p>
-    Atualmente estou cursando Análise e desenvolvimento de sistemas e, a quase um ano, venho estudando desenvolvimento web de modo autodidata, com HTML, CSS, JavaScript e nodeJS. Também estou começando a estudar React.
-  </p>
+  💻 Análise e Desenvolvimento de sistemas. <br>
+  🧑🏻‍💻 Desenvolvimento Web Front-End. <br>
+  🔥 HTML, CSS, JavaScript, NodeJS.
 </div>
+
+##
 
 <div>
 
@@ -28,7 +30,7 @@
 <div> 
 
   <a href="https://instagram.com/carlosrailsonn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://carlosrailsondev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:carlosrailsondev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlosrailson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
