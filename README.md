@@ -1,7 +1,7 @@
 ## Hi! I am Carlos, Welcome to my GitHub profile ;)
 
 <div>
-  💻 Web Development / Web Front-End. <br>
+  💻 Web Development / Front-End. <br>
   🔥 HTML, CSS, JavaScript, NodeJS.
 </div>
 
