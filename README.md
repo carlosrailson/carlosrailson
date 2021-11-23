@@ -1,8 +1,7 @@
-## Olá! Eu sou o Carlos Railson
+## Hi! I am Carlos, Welcome to my GitHub profile ;)
 
 <div>
-  💻 Análise e Desenvolvimento de sistemas. <br>
-  🧑🏻‍💻 Desenvolvimento Web Front-End. <br>
+  💻 Web Development / Web Front-End. <br>
   🔥 HTML, CSS, JavaScript, NodeJS.
 </div>
 
